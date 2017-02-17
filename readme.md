@@ -41,7 +41,7 @@ Dla uproszczenia możemy założyć, że przekazana tablica zawiera wyłącznie 
 
 Przykład:
 ```javascript
-bigestSumOfTwoElements([1,2,3,4]) // => 7
+bigestSumOfTwoElements // => 7
 bigestSumOfTwoElements([]) // => NaN
 bigestSumOfTwoElements([76]) // => 76
 bigestSumOfTwoElements([23,45,17,12]) // => 68
